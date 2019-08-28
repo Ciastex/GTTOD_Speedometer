@@ -1,0 +1,8 @@
+﻿{
+  "FriendlyName": "Speedometer",
+  "Author": "Ciastex",
+  "Contact": "Discord: Ciastex#6170",
+  "ModuleFileName": "Speedometer.dll",
+  "Priority": 10,
+  "SkipLoad": false
+}
